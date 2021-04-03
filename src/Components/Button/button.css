@@ -1,0 +1,42 @@
+.kit-button {
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+}
+.kit-button--primary {
+    color: white;
+    background-color: #1ea7fd;
+}
+.kit-button--primary:hover {
+    color: #1ea7fd;
+    background-color: white;
+    border: 1px solid #1ea7fd;
+}
+.kit-button--secondary {
+    color: #1ea7fd;
+    background-color: white;
+    border: 1px solid #1ea7fd;
+}
+.kit-button--secondary:hover {
+    color: white;
+    background-color: #1ea7fd;
+}
+.kit-button--normal {
+    color: #333;
+    background-color: white;
+}
+.kit-button--small {
+    font-size: 12px;
+    padding: 12px 20px;
+}
+.kit-button--medium {
+    font-size: 14px;
+    padding: 14px 24px;
+}
+.kit-button--large {
+    font-size: 16px;
+    padding: 16px 28px;
+}
