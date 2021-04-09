@@ -8,21 +8,21 @@
 }
 .kit-button--primary {
     color: white;
-    background-color: #1ea7fd;
+    background-color: rgb(62, 122, 235);
 }
 .kit-button--primary:hover {
-    color: #1ea7fd;
+    color: rgb(62, 122, 235);
     background-color: white;
-    border: 1px solid #1ea7fd;
+    border: 1px solid rgb(62, 122, 235);
 }
 .kit-button--secondary {
-    color: #1ea7fd;
+    color: rgb(62, 122, 235);
     background-color: white;
-    border: 1px solid #1ea7fd;
+    border: 1px solid rgb(62, 122, 235);
 }
 .kit-button--secondary:hover {
     color: white;
-    background-color: #1ea7fd;
+    background-color: rgb(62, 122, 235);
 }
 .kit-button--normal {
     color: #333;

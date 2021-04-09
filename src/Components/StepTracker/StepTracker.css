@@ -1,0 +1,9 @@
+.kit-step-tracker-container {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+.kit-step-tracker-progress-bar {
+    width: 90%;
+    margin-right: 2em;
+}
