@@ -1,0 +1,42 @@
+.kit-box-item-list {
+    font-weight: 700;
+    border: 0;
+    border-radius: 3em;
+    cursor: pointer;
+    display: inline-block;
+    line-height: 1;
+}
+.kit-box-item-list--primary {
+    color: white;
+    background-color: rgb(62, 122, 235);
+}
+.kit-box-item-list--primary:hover {
+    color: rgb(62, 122, 235);
+    background-color: white;
+    border: 1px solid rgb(62, 122, 235);
+}
+.kit-box-item-list--secondary {
+    color: rgb(62, 122, 235);
+    background-color: white;
+    border: 1px solid rgb(62, 122, 235);
+}
+.kit-box-item-list--secondary:hover {
+    color: white;
+    background-color: rgb(62, 122, 235);
+}
+.kit-box-item-list--normal {
+    color: #333;
+    background-color: white;
+}
+.kit-box-item-list--small {
+    font-size: 12px;
+    padding: 12px 20px;
+}
+.kit-box-item-list--medium {
+    font-size: 14px;
+    padding: 14px 24px;
+}
+.kit-box-item-list--large {
+    font-size: 16px;
+    padding: 16px 28px;
+}
